@@ -77,10 +77,6 @@ textarea:focus{
     font-size: 1em;
 }
 
-#site-header,#site-footer{
-  display:none
-}
-
 .main-page{
     width: 100vw;
     display: flex;
@@ -123,6 +119,16 @@ textarea:focus{
     font-size: 1rem;
 }
 
+/* 
+
+Add any CSS related this task below this comment
+
+*/
+
+#site-header,#site-footer{
+  display:none
+}
+
 input[type="submit"] {
     background-color: #0063b6;
     color: white;
@@ -154,9 +160,5 @@ input , select {
 
 
 
-/* 
 
-Add any CSS related this task below this comment
-
-*/
 
